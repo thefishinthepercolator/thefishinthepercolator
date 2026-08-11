@@ -10,6 +10,10 @@
 
 <h6 align="center">
 $$\color{#ebb274}{starr.ᐟ}$$ <img src="https://media.discordapp.net/attachments/1394835939809034320/1536844032129507408/IMG_7830.png?ex=6a7ce10a&is=6a7b8f8a&hm=fd4679a28d20ad6cfdd4b2ca87191890bafbd69c128515ba00172b5a7f0dd890&=" width="25">
+  
+<img align="left" width="150" src="https://github.com/user-attachments/assets/297dea03-bcb1-4ede-b79e-efa7903ccd0b"> 
+$$\color{#ee6e83}{♯ :}$$
+<br clear="left"/>
 
 
 
