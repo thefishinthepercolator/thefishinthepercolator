@@ -7,3 +7,6 @@
 
 <h6 align="center">
 <image src="https://cdn.discordapp.com/attachments/1394835939809034320/1536836433849884743/Untitled263_20260811163910.png?ex=6a7cd9f6&is=6a7b8876&hm=eb132d0a652a1582b2f389f87de5ad2e1eec2d9f72db598cd75b4756b9ffa78e&" width="400">
+
+<h6 align="center">
+$$\color{#ebb274}{starr.ᐟ}$$ <img src="https://media.discordapp.net/attachments/1394835939809034320/1536844032129507408/IMG_7830.png?ex=6a7ce10a&is=6a7b8f8a&hm=fd4679a28d20ad6cfdd4b2ca87191890bafbd69c128515ba00172b5a7f0dd890&=" width="25">
