@@ -16,5 +16,6 @@ $$\color{#ebb274}{starr.ᐟ}$$ <img src="https://media.discordapp.net/attachment
 <img src="https://media.discordapp.net/attachments/1394835939809034320/1536817514078535710/IMG_7819.png?ex=6a7cc858&is=6a7b76d8&hm=a0f438e0751b8e63995a76db7641070cb34ff7edca0abbd0afcf98d16ee2cf79&=" width="100">
 <br clear="left"/>
 
-
-
+<h6 align="center">
+$$\color{#ebb274}{ —}$$ $$\color{#ebb274}{    ཾ}$$ $$\color{#934c22}{ andy   }$$
+$$\color{#ebb274}{ ˳   }$$ $$\color{#df839a}{ lucy }$$ $$\color{#ebb274}{   ⑅ 𓏼ׁ ׅ }$$
