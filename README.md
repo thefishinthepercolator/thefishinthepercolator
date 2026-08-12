@@ -1,14 +1,13 @@
 
 
 
-<h6 align="center">
-  <div>
-<image src="https://cdn.discordapp.com/attachments/1394835939809034320/1536810695734202531/IMG_7822.gif?ex=6a7cc1fe&is=6a7b707e&hm=d0b5d790adfd52e9434cd59850e0b415aebd342d84d0b816906764ec8518ff16&" width="400">
-</div>
-<h6 align="center">
-<div>
-<image src="https://cdn.discordapp.com/attachments/1394835939809034320/1536836433849884743/Untitled263_20260811163910.png?ex=6a7cd9f6&is=6a7b8876&hm=eb132d0a652a1582b2f389f87de5ad2e1eec2d9f72db598cd75b4756b9ffa78e&" width="400">
-</div>
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/1394835939809034320/1536810695734202531/IMG_7822.gif?ex=6a7cc1fe&is=6a7b707e&hm=d0b5d790adfd52e9434cd59850e0b415aebd342d84d0b816906764ec8518ff16&"width: 100%; height: auto;" />
+</p>
+
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/1394835939809034320/1536836433849884743/Untitled263_20260811163910.png?ex=6a7cd9f6&is=6a7b8876&hm=eb132d0a652a1582b2f389f87de5ad2e1eec2d9f72db598cd75b4756b9ffa78e&"width: 100%; height: auto;" />
+</p>
 
   <div>
 <h6 align="center">
