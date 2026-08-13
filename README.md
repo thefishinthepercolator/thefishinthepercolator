@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img  src="https://cdn.discordapp.com/attachments/1394835939809034320/1536810695734202531/IMG_7822.gif?ex=6a7cc1fe&is=6a7b707e&hm=d0b5d790adfd52e9434cd59850e0b415aebd342d84d0b816906764ec8518ff16&"width: 100%; height: auto;" />
+<img  src="https://64.media.tumblr.com/c7a0952ad185c24f87a386cf422e8bbe/b7fd80b48449cdaa-4d/s1280x1920/d774db09dee0b1dc3004769649e842c8c4d4217d.gifv"width: 100%; height: auto;" />
 </p>
 
 <p align="center">
