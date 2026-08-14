@@ -2,8 +2,8 @@
 
 
 <p align="center">
-<img  src="https://cdn.discordapp.com/attachments/1394835939809034320/1536810695734202531/IMG_7822.gif?ex=6a7ebc3e&is=6a7d6abe&hm=40f9df3cb2e805d8bd5966832690993ec68e011c453a122b9cd082000a5aa38b&"width: 100%; height: auto;" />
-</p>
+<img  src="https://media.discordapp.net/attachments/1394835939809034320/1536810695734202531/IMG_7822.gif?ex=6a80b67e&is=6a7f64fe&hm=bc2790b17eaff5f141a170ff3c22ec29eba3e338ca2e92e3413c27ecf04aad93&="width: 100%; height: auto;" />
+</p> 
 
 <p align="center">
 <img src="https://cdn.discordapp.com/attachments/1394835939809034320/1536836433849884743/Untitled263_20260811163910.png?ex=6a7cd9f6&is=6a7b8876&hm=eb132d0a652a1582b2f389f87de5ad2e1eec2d9f72db598cd75b4756b9ffa78e&"width: 100%; height: auto;" />
