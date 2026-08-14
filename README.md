@@ -1,5 +1,5 @@
 
-
+  ![GitHub Views](https://komarev.com/ghpvc/?username=thefishinthepercolator-jpg&amp;color=ffdf91&amp;style=flat&amp;label=𓊆ྀི⋆🐾⋆𓊇ྀི)
 
 <p align="center">
 <img  src="https://media.discordapp.net/attachments/1394835939809034320/1536810695734202531/IMG_7822.gif?ex=6a80b67e&is=6a7f64fe&hm=bc2790b17eaff5f141a170ff3c22ec29eba3e338ca2e92e3413c27ecf04aad93&="width: 100%; height: auto;" />
