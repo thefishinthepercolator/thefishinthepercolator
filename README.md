@@ -3,9 +3,9 @@
   ![GitHub Views](https://komarev.com/ghpvc/?username=thefishinthepercolator-jpg&amp;color=ffdf91&amp;style=flat&amp;label=𓊆ྀི⋆🐾⋆𓊇ྀི)
 
 <p align="center">
-<img  src="https://media.discordapp.net/attachments/1394835939809034320/1536810695734202531/IMG_7822.gif?ex=6a80b67e&is=6a7f64fe&hm=bc2790b17eaff5f141a170ff3c22ec29eba3e338ca2e92e3413c27ecf04aad93&="width: 100%; height: auto;" />
+<img  src="https://cdn.discordapp.com/attachments/1394835939809034320/1536810695734202531/IMG_7822.gif?ex=6a82b0be&is=6a815f3e&hm=afd78c4aee96b10dae4a11d8b5b9a3cba0b857207ec05d8388256034c15c8c1d&"width: 100%; height: auto;" />
 </p> 
-
+ 
 <p align="center">
 <img src="https://cdn.discordapp.com/attachments/1394835939809034320/1536836433849884743/Untitled263_20260811163910.png?ex=6a7cd9f6&is=6a7b8876&hm=eb132d0a652a1582b2f389f87de5ad2e1eec2d9f72db598cd75b4756b9ffa78e&"width: 100%; height: auto;" />
 </p>
