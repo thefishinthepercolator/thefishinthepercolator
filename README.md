@@ -3,7 +3,7 @@
   ![GitHub Views](https://komarev.com/ghpvc/?username=thefishinthepercolator-jpg&amp;color=ffdf91&amp;style=flat&amp;label=𓊆ྀི⋆🐾⋆𓊇ྀི)
 
 <p align="center">
-<img  src="https://cdn.discordapp.com/attachments/1394835939809034320/1536810695734202531/IMG_7822.gif?ex=6a8553be&is=6a84023e&hm=8bcedccea9e610d3820ca4a800b5d3b2a424c71caab3278887815911c13ed86a&"width: 100%; height: auto;" />
+<img  src="https://cdn.discordapp.com/attachments/1394835939809034320/1536810695734202531/IMG_7822.gif?ex=6a86a53e&is=6a8553be&hm=4743ec47b7d43c867b1b4ed5f9bf69a5d56c2063b195ed3fe8299eee484c1c56&"width: 100%; height: auto;" />
 </p> 
  
 <p align="center">
@@ -12,7 +12,7 @@
 
   
 <h6 align="center">
-$$\color{#ebb274}{starr.ᐟ}$$ <img src="https://media.discordapp.net/attachments/1394835939809034320/1536844032129507408/IMG_7830.png?ex=6a7edb4a&is=6a7d89ca&hm=bac609d86c5a2f0679f163e9d0c15b5bb68ca0642067bcba4f91918895f951f2&=" width="25">
+$$\color{#ebb274}{starr.ᐟ}$$ <img src="https://media.discordapp.net/attachments/1394835939809034320/1536844032129507408/IMG_7830.png?ex=6a86c44a&is=6a8572ca&hm=3e69e155614208c4dd3bb66dffc8085d8d3210d034eea462a46cba92fd44b23f&=" width="25">
 <img src="https://github.com/user-attachments/assets/297dea03-bcb1-4ede-b79e-efa7903ccd0b"align="left" width="150">
  $$\color{#ee6e83}{♯ :}$$
   
