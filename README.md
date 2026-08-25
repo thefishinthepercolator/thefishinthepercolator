@@ -3,11 +3,11 @@
   ![GitHub Views](https://komarev.com/ghpvc/?username=thefishinthepercolator-jpg&amp;color=ffdf91&amp;style=flat&amp;label=𓊆ྀི⋆🐾⋆𓊇ྀི)
 
 <p align="center">
-<img  src="https://cdn.discordapp.com/attachments/1394835939809034320/1536810695734202531/IMG_7822.gif?ex=6a86a53e&is=6a8553be&hm=4743ec47b7d43c867b1b4ed5f9bf69a5d56c2063b195ed3fe8299eee484c1c56&"width: 100%; height: auto;" />
+<img width="100%" height="auto;" alt="IMG_8103" src="https://github.com/user-attachments/assets/5c684454-5d61-4710-8e8e-b1a33c1e6a57" />
 </p> 
- 
+
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1394835939809034320/1536836433849884743/Untitled263_20260811163910.png?ex=6a7cd9f6&is=6a7b8876&hm=eb132d0a652a1582b2f389f87de5ad2e1eec2d9f72db598cd75b4756b9ffa78e&"width: 100%; height: auto;" />
+<img width="100%" height="auto;" alt="IMG_8102" src="https://github.com/user-attachments/assets/5fc662e3-cc74-4437-b64b-35f390083e5d" />
 </p>
 
   
