@@ -13,10 +13,11 @@
   
 <h6 align="center">
 $$\color{#ebb274}{starr.ᐟ}$$ <img src="https://media.discordapp.net/attachments/1394835939809034320/1536844032129507408/IMG_7830.png?ex=6a86c44a&is=6a8572ca&hm=3e69e155614208c4dd3bb66dffc8085d8d3210d034eea462a46cba92fd44b23f&=" width="25">
-<img src="https://github.com/user-attachments/assets/297dea03-bcb1-4ede-b79e-efa7903ccd0b"align="left" width="150">
- $$\color{#ee6e83}{♯ :}$$
-  
+<img alt="IMG_8104" src="https://github.com/user-attachments/assets/908f6987-4d9c-4b9f-9543-b38dd25cc62e"align="left" width="150">
   <div>
+  $$\color{#ee6e83}{♯ :}$$
+  
+
 <img src="https://media.discordapp.net/attachments/1394835939809034320/1536817514078535710/IMG_7819.png?ex=6a7cc858&is=6a7b76d8&hm=a0f438e0751b8e63995a76db7641070cb34ff7edca0abbd0afcf98d16ee2cf79&=" width="100">
 <br clear="right"/>
   </div>
