@@ -24,10 +24,13 @@ $$\color{#ebb274}{starr.ᐟ}$$ <img src="https://media.discordapp.net/attachment
 <h6 align="center">
 $$\color{#ebb274}{ —}$$ $$\color{#ebb274}{    ཾ}$$ $$\color{#934c22}{ andy   }$$
 $$\color{#ebb274}{ ˳   }$$ $$\color{#df839a}{ lucy }$$ $$\color{#ebb274}{   ⑅ 𓏼ׁ ׅ }$$
-
+<div>
 $$\color{#ebb274}{ ⠀𓈒}$$ $$\color{#ebb274}{ ⠀𓈒}$$ $$\color{#ebb274}{ ⠀𓈒}$$ $$\color{#ebb274}{ ⠀𓈒}$$ $$\color{#ebb274}{ ⠀𓈒}$$ $$\color{#ebb274}{ ⠀𓈒}$$ $$\color{#ebb274}{ ⠀𓈒}$$ $$\color{#ebb274}{ ⠀𓈒}$$ $$\color{#ebb274}{ ⠀𓈒}$$
 
 
 <div align="center">
+
+
   
 [ 𝒮𝗍𝓇ᥲ𝑤 ](https://starr-is-peaks.straw.page)
+</div>
