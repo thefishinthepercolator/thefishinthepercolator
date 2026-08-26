@@ -16,9 +16,9 @@ $$\color{#ebb274}{starr.ᐟ}$$ <img src="https://media.discordapp.net/attachment
 <img alt="IMG_8104" src="https://github.com/user-attachments/assets/908f6987-4d9c-4b9f-9543-b38dd25cc62e"align="left" width="150">
   <div>
   $$\color{#ee6e83}{♯ :}$$
-  
 
-<img src="https://media.discordapp.net/attachments/1394835939809034320/1536817514078535710/IMG_7819.png?ex=6a7cc858&is=6a7b76d8&hm=a0f438e0751b8e63995a76db7641070cb34ff7edca0abbd0afcf98d16ee2cf79&=" width="100">
+
+<img src="https://github.com/user-attachments/assets/1d1e98d5-a211-4c4f-a6cd-1f30902f0b4d" width="100">
 <br clear="right"/>
   </div>
 <h6 align="center">
